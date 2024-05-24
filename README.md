@@ -41,7 +41,7 @@ Spring Demo is a simple Spring Boot project designed to showcase basic skills in
 The application exposes a simple RESTful API. You can test the endpoints using a tool like Postman or `curl`.
 
 Example endpoint:
-- `GET /api/demo` - Retrieves a list of demo items
+- `GET /flights/api/` - Retrieves a list of demo items
 
 ## Project Structure
 
